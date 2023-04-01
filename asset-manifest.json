@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/to-do-typescript/static/css/main.26118501.css",
+    "main.js": "/to-do-typescript/static/js/main.b1c5afa4.js",
+    "index.html": "/to-do-typescript/index.html",
+    "main.26118501.css.map": "/to-do-typescript/static/css/main.26118501.css.map",
+    "main.b1c5afa4.js.map": "/to-do-typescript/static/js/main.b1c5afa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26118501.css",
+    "static/js/main.b1c5afa4.js"
+  ]
+}
